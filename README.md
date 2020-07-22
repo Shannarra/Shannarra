@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Welcome to my profile, You can follow me if you're interested in my work**
 
-I'm a 19-years old programmer from Europe, I love algorithms🤓, tea🍵, books 📚 and programming in general. 
+I'm a 19-years old programmer from Europe, I love algorithms🤓, tea🍵, books 📚 and programming in general.   
 If you're interested in my work you can follow me, I'll grately appreciate it!
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Shannarra&&show_icons=true&theme=tokyonight)](https://petarangelov.com)
