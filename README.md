@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Welcome to my profile, You can follow me if you're interested in my work**
+
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Shannarra&&show_icons=true&theme=tokyonight)](https://petarangelov.com)
