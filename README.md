@@ -5,7 +5,8 @@ I'm a 19-years old programmer from Europe, I love algorithms🤓, tea🍵, books
 If you're interested in my work you can follow me, I'll grately appreciate it!
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=Shannarra&&show_icons=true&theme=tokyonight)](https://petarangelov.com)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shannarra&layout=compact&theme=light&show_icons=true&hide_border=true&count_private=true)](https://www.github.com/Shannarra)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shannarra&layout=compact&theme=light&show_icons=true&hide_border=true&count_private=true)](https://www.github.com/Shannarra)  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shannarra&theme=dark)](https://git.io/streak-stats) 
 
 - 🔭 I’m currently working on __Code Generation Tools__ and __Algorithm-heavy projects__
 - 🌱 I’m currently learning the new features of the Rust programming language, as well as React & Redux
